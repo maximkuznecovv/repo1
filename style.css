@@ -1,0 +1,39 @@
+.google {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+form {
+  width: 700px;
+  margin: auto;
+}
+
+.search {
+  width: 400px;
+  padding: 20px;
+  border: 2px solid #d66;
+  border-radius: 50px;
+  font-size: 20px;
+}
+
+.button {
+  height: 65px;
+  width: 150px;
+  background-color: green;
+  color: white;
+  padding: 5px;
+  border-radius: 50px;
+  font-size: 20px;
+}
+
+.three-sec {
+  width: 700px;
+  margin: auto;
+}
+
+.hide {
+  height: 100px;
+}
